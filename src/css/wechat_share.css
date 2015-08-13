@@ -124,7 +124,7 @@ a {
   vertical-align: middle;
   width: 1.25rem;
   height: 1.25rem;
-  background: url('../images/common_icons.png') no-repeat;
+  background: url('../demo/wechat_V2/common_icons.png') no-repeat;
   background-size: 5.75rem 13.25rem;
   background-position: 0 0;
 }
@@ -181,7 +181,7 @@ a {
 .v-footer .v-user .info .decoration::after {
   content: '';
   display: inline-block;
-  background: url('../images/common_icons.png') no-repeat;
+  background: url('../demo/wechat_V2/common_icons.png') no-repeat;
   background-size: 5.75rem 13.25rem;
   width: .8rem;
   height: .8rem;
@@ -235,7 +235,7 @@ a {
 }
 .v-footer .v-action i {
   display: inline-block;
-  background: url('../images/common_icons.png') no-repeat;
+  background: url('../demo/wechat_V2/common_icons.png') no-repeat;
   background-size: 5.75rem 13.25rem;
   vertical-align: middle;
 }
@@ -286,7 +286,7 @@ a {
   display: inline-block;
   width: 3.33rem;
   height: 7.08rem;
-  background: url('../images/share_icons.png') no-repeat;
+  background: url('../demo/wechat_V2/share_icons.png') no-repeat;
   background-size: 14.67rem 11.17rem;
   background-position: 0 0;
   margin-top: .67rem;
@@ -306,7 +306,7 @@ a {
   display: inline-block;
   width: 3.667rem;
   height: 3.667rem;
-  background: url('../images/share_icons.png') no-repeat;
+  background: url('../demo/wechat_V2/share_icons.png') no-repeat;
   background-size: 14.67rem 11.17rem;
   margin-right: 1.17rem;
 }
@@ -334,7 +334,7 @@ a {
   vertical-align: middle;
   width: 1.25rem;
   height: 1.25rem;
-  background: url('../images/common_icons.png') no-repeat;
+  background: url('../demo/wechat_V2/common_icons.png') no-repeat;
   background-size: 5.75rem 13.25rem;
   background-position: 0 0;
 }
@@ -431,7 +431,7 @@ a {
 }
 .teledrama-list .current-list i {
   display: inline-block;
-  background: url('../images/common_icons.png') no-repeat;
+  background: url('../demo/wechat_V2/common_icons.png') no-repeat;
   background-size: 5.75rem 13.25rem;
   background-position: -1.58rem 0;
   width: .83em;
@@ -490,7 +490,7 @@ a {
 }
 .video-item .description .p-num i {
   display: inline-block;
-  background: url('../images/common_icons.png') no-repeat;
+  background: url('../demo/wechat_V2/common_icons.png') no-repeat;
   background-size: 5.75rem 13.25rem;
   background-position: 0 -8.83rem;
   width: 1.08rem;
@@ -543,7 +543,7 @@ a {
 }
 .comment-item .description i {
   display: inline-block;
-  background: url('../images/common_icons.png') no-repeat;
+  background: url('../demo/wechat_V2/common_icons.png') no-repeat;
   background-size: 5.75rem 13.25rem;
   background-position: -1.83rem -8.83rem;
   width: .75rem;
@@ -592,7 +592,7 @@ a {
 }
 .comment-review i {
   display: inline-block;
-  background: url('../images/common_icons.png') no-repeat;
+  background: url('../demo/wechat_V2/common_icons.png') no-repeat;
   background-size: 5.75rem 13.25rem;
   background-position: -2.83rem -1.58rem;
   width: 1.25rem;
@@ -612,7 +612,7 @@ a {
 }
 .video-recom-btn .exchange i {
   display: inline-block;
-  background: url('../images/common_icons.png') no-repeat;
+  background: url('../demo/wechat_V2/common_icons.png') no-repeat;
   background-size: 5.75rem 13.25rem;
   background-position: -4rem 0;
   width: 1.25rem;
@@ -684,7 +684,7 @@ a {
   top: 50%;
   margin-left: -31px;
   margin-top: -30px;
-  background: url('../images/play_icon.png') no-repeat;
+  background: url('../demo/wechat_V2/play_icon.png') no-repeat;
   background-size: 63px 60px;
 }
 .yk-player {
@@ -801,7 +801,7 @@ a {
   vertical-align: middle;
   width: 2.5rem;
   height: 2.5rem;
-  background: url('../images/comments_icons.png') no-repeat;
+  background: url('../demo/wechat_V2/comments_icons.png') no-repeat;
   background-size: 3.33rem 1.67rem;
   background-position: -2.33rem 0;
 }
@@ -820,7 +820,7 @@ a {
   width: 1.67rem;
   height: 1.8rem;
   margin-right: .5rem;
-  background: url('../images/comments_icons.png') no-repeat;
+  background: url('../demo/wechat_V2/comments_icons.png') no-repeat;
   background-size: 3.33rem 1.67rem;
   background-position: 0 0;
 }
@@ -841,7 +841,7 @@ a {
   display: inline-block;
   width: 6rem;
   height: 1.25rem;
-  background: url('../images/yk_logo.png') no-repeat;
+  background: url('../demo/wechat_V2/yk_logo.png') no-repeat;
   background-size: 6rem 1.25rem;
   background-position: 0 0;
   vertical-align: middle;
@@ -995,7 +995,7 @@ a {
 }
 .subscribe-item .item-body .info span i {
   display: inline-block;
-  background: url('../images/common_icons.png') no-repeat;
+  background: url('../demo/wechat_V2/common_icons.png') no-repeat;
   background-size: 5.75rem 13.25rem;
   background-position: 0 -8.83rem;
   width: 1.08rem;
@@ -1105,7 +1105,7 @@ a {
 }
 .push-item .item-body .info span i {
   display: inline-block;
-  background: url('../images/common_icons.png') no-repeat;
+  background: url('../demo/wechat_V2/common_icons.png') no-repeat;
   background-size: 5.75rem 13.25rem;
   background-position: 0 -8.83rem;
   width: 1.08rem;
